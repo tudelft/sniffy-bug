@@ -1,0 +1,6 @@
+[submodule "sniffybug-firmware"]
+	path = sniffybug-firmware
+	url = https://github.com/Duisterhof/sniffybug-firmware
+[submodule "sniffybug-swarmulator"]
+	path = sniffybug-swarmulator
+	url = https://github.com/Duisterhof/sniffybug-swarmulator.git
