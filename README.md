@@ -1,7 +1,7 @@
 # Sniffy Bug: A fully autonomous swarm of gas-seeking nano quadcopters in cluttered environments
 
 ![](figures/sniffygif.gif)
-\
+
 
 Nano quadcopters are ideal for gas source localization (GSL) as they are safe, agile and inexpensive. However, their
 extremely restricted sensors and computational resources make
