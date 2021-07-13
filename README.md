@@ -7,8 +7,8 @@ This repository contains the following:
 - CrazyFlie gas deck PCB files: coming soon!
 
 Links:
--arXiv: https://arxiv.org/abs/2107.05490
--videos: https://bit.ly/37MmtdL
+- arXiv: https://arxiv.org/abs/2107.05490
+- videos: https://bit.ly/37MmtdL
 
 This repository is a work in progress, more documentation will be added soon.
 Please reach out if you have any questions or ideas, you can reach us at: b.p.duisterhof@gmail.com or g.c.h.e.decroon@tudelft.nl 
