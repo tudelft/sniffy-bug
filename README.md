@@ -25,7 +25,7 @@ outperforms manually selected parameters in cluttered, realworld environments.
 This repository contains the following:
 - sniffybug-firmware: the firmware used to run experiments onboard the BitCraze CrazyFlie 2.1.
 - sniffybug-swarmulator: a fork of swarmulator, a lightweight c++ robot simulator. This version of swarmulator allows for testing gas source localization algorithms in a variety of environments.
-- AutoGDM: coming soon!
+- AutoGDM: Fully autonomous environment generation and gas dispersion modelling (GDM)! Check out the submodule, or the repository directly: https://github.com/tudelft/AutoGDM
 - CrazyFlie gas deck PCB files: coming soon!
 
 # Links

@@ -4,3 +4,6 @@
 [submodule "sniffybug-swarmulator"]
 	path = sniffybug-swarmulator
 	url = https://github.com/Duisterhof/sniffybug-swarmulator.git
+[submodule "AutoGDM"]
+	path = AutoGDM
+	url = https://github.com/tudelft/AutoGDM
